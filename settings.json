@@ -1,0 +1,16 @@
+{
+    "name": "ContentCreatorToken",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Content Creator Token",
+        "/category/asset_value_tracking/core-token/symbol": "CCT",
+        "/category/asset_value_tracking/core-token/decimals": "8",
+        "/category/asset_value_tracking/core-token/supply": "94500000",
+        "/category/collection/core-entity": true
+    }
+}
